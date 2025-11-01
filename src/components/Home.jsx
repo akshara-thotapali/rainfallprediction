@@ -11,7 +11,7 @@ const Home = () => {
       <section className="hero-section">
         <div className="hero-left">
           <h1>
-            {i18n.language === 'te' ? t('welcome') : 'Welcome to AGRIONE'}
+            {i18n.language === 'te' ? t('welcome') : 'Welcome to AGRIONE this is our project'}
           </h1>
           <p>
             {i18n.language === 'te'
